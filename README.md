@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brenda Goedert</h1>
+<h1 align="center">Hi👩🏻‍💻, I'm Brenda Goedert</h1>
 <h3 align="center">Growth marketer learning about data analytics to fuse marketing expertise with data insights.</h3>
 
 - 🔭 I’m currently working as a **Growth & Performance Coordinator** on **Alura**
