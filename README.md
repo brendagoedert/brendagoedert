@@ -5,7 +5,7 @@
 
 - 💡 I'm experienced on **Business Intelligence, Excel/Sheets, Power BI and Looker Studios**
 
-- 🌱 I’m currently learning and improvindo in **SQL, Power BI and Python**
+- 🌱 I’m currently learning and improving in **SQL, Power BI and Python**
 
 - 📫 How to reach me **brendagoedert@gmail.com**
 
