@@ -5,7 +5,7 @@
 
 - 💡 I have experience in **Marketing and Growth Strategies, Business Intelligence, Excel/Sheets, Power BI and Looker Studio**
 
-- 🌱 I’m currently learning and improving in **SQL, Power BI and Python**
+- 🌱 I’m currently learning and improving in **SQL and Python**
 
 - 📫 How to reach me **brendagoedert@gmail.com**
 
