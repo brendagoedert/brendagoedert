@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a **Growth & Performance Coordinator** on **Alura**
 
-- 💡 I'm experienced on **Marketing and Growth Strategies, Business Intelligence, Excel/Sheets, Power BI and Looker Studio**
+- 💡 I have experience in **Marketing and Growth Strategies, Business Intelligence, Excel/Sheets, Power BI and Looker Studio**
 
 - 🌱 I’m currently learning and improving in **SQL, Power BI and Python**
 
