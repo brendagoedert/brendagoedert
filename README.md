@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a **Growth & Performance Coordinator** on **Alura**
 
-- 👩🏻‍🎓 I'm currently studying an **MBA in BI & Analytics** at FIAP
+- 👩🏻‍🎓 Besides holding an **MBA in BI & Analytics from FIAP**, I also have a degree in **Fashion Design** and a postgraduate qualification in **Marketing, Management and Fashion**.
 
 - 💡 I have experience in **Marketing and Growth Strategies, Business Intelligence, Excel/Sheets, Power BI and Looker Studio**
 
